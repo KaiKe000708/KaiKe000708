@@ -1,3 +1,4 @@
+![Uploading f9479091efe24ff10666d8fa8da86df3.gif…]()
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Kaike%20Garcia%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
