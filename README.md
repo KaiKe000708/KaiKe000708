@@ -7,10 +7,7 @@
 
 <br><br>
 
-<!-- ✏️ cole aqui a URL final do gif depois de re-subir ele direto no editor do GitHub -->
-<!-- Exemplo: <img src="https://github.com/user-attachments/assets/SEU-LINK-AQUI" width="450"/> -->
-<img src="<img width="500" height="250" alt="f9479091efe24ff10666d8fa8da86df3" src="https://github.com/user-attachments/assets/b3dfa8f2-09ea-4f2f-85e4-d10cecda99a0" />
-" width="450"/>
+<img src="https://github.com/user-attachments/assets/b3dfa8f2-09ea-4f2f-85e4-d10cecda99a0" width="450"/>
 
 </div>
 
