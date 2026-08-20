@@ -25,14 +25,20 @@
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/🎯_Nmap-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💣_Metasploit-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/GIS-000000?style=for-the-badge&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/🗺️_GIS-000000?style=for-the-badge"/>
 </p>
 
-<sub>✏️ ajuste essa lista pra refletir o que você realmente usa</sub>
+<!-- ✏️ ajuste essa lista pra refletir o que você realmente usa -->
+
+<p>
+<img src="https://img.shields.io/badge/🇧🇷_PT--BR-009c3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇺🇸_English-3c3b6e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇪🇸_Español-aa151b?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -56,7 +62,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
 
-<sub>✏️ conforme você criar mais repositórios, adicione mais linhas iguais a essa trocando o nome do repo</sub>
+<!-- ✏️ conforme você criar mais repositórios, adicione mais linhas iguais a essa trocando o nome do repo -->
 
 </div>
 
@@ -82,7 +88,7 @@
   <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ffffff"/>
 </a>
 
-<sub>✏️ confira se o link do TryHackMe e do Discord abrem corretamente</sub>
+<!-- ✏️ confira se o link do TryHackMe e do Discord abrem corretamente -->
 
 </div>
 
