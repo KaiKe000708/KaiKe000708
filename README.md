@@ -24,6 +24,12 @@
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GIS-000000?style=for-the-badge&logoColor=ffffff"/>
 </p>
 
 <sub>✏️ ajuste essa lista pra refletir o que você realmente usa</sub>
@@ -63,21 +69,21 @@
 <a href="https://x.com/KaiKeNoPs">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=ffffff"/>
 </a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+<a href="https://www.linkedin.com/in/kaike-garciao/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:kaike.garcia10@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
+<a href="https://discord.com/users/kaikenops">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff"/>
+</a>
+<a href="https://tryhackme.com/p/KaiKe000708">
+  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ffffff"/>
+</a>
 
-<sub>✏️ troque o link do LinkedIn e o e-mail pelos seus</sub>
+<sub>✏️ confira se o link do TryHackMe e do Discord abrem corretamente</sub>
 
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=KaiKe000708&style=for-the-badge&color=ffffff&label=Visualizações+do+perfil"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
