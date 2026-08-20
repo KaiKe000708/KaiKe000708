@@ -1,47 +1,37 @@
-![Uploading f9479091efe24ff10666d8fa8da86df3.gif…]()
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Kaike%20Garcia%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Kaike%20Garcia%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/KaiKe000708">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8B8BF9&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Cibersegurança;Sempre+aprendendo+algo+novo;Minas+Gerais+%7C+Brasil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=E6E6E6&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Cibersegurança;Sempre+aprendendo+algo+novo;Minas+Gerais+%7C+Brasil" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<!-- ✏️ cole aqui a URL final do gif depois de re-subir ele direto no editor do GitHub -->
+<!-- Exemplo: <img src="https://github.com/user-attachments/assets/SEU-LINK-AQUI" width="450"/> -->
+<img src="<img width="500" height="250" alt="f9479091efe24ff10666d8fa8da86df3" src="https://github.com/user-attachments/assets/b3dfa8f2-09ea-4f2f-85e4-d10cecda99a0" />
+" width="450"/>
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### 🧭 Sobre mim
-
-- 🎓 Estudante de **Sistemas de Informação**
-- 📍 Baseado em **Minas Gerais, Brasil**
-- 🔐 Entusiasta de **Segurança da Informação**
-- 🌱 Sempre estudando algo novo em Tech
-- 💬 Me chama no X: **@KaiKeNoPs**
-
-</td>
-<td valign="top" width="50%">
+<div align="center">
 
 ### 🛠️ Stack & Ferramentas
 
 <p>
-<img src="https://img.shields.io/badge/Python-14151a?style=for-the-badge&logo=python&logoColor=8B8BF9"/>
-<img src="https://img.shields.io/badge/Linux-14151a?style=for-the-badge&logo=linux&logoColor=8B8BF9"/>
-<img src="https://img.shields.io/badge/HTML5-14151a?style=for-the-badge&logo=html5&logoColor=8B8BF9"/>
-<img src="https://img.shields.io/badge/Bash-14151a?style=for-the-badge&logo=gnubash&logoColor=8B8BF9"/>
-<img src="https://img.shields.io/badge/Git-14151a?style=for-the-badge&logo=git&logoColor=8B8BF9"/>
-<img src="https://img.shields.io/badge/Wireshark-14151a?style=for-the-badge&logo=wireshark&logoColor=8B8BF9"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ffffff"/>
 </p>
 
 <sub>✏️ ajuste essa lista pra refletir o que você realmente usa</sub>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -49,10 +39,9 @@
 
 ### 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaiKe000708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8BF9&icon_color=8B8BF9&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiKe000708&theme=tokyonight&hide_border=true&background=0d1117&ring=8B8BF9&fire=8B8BF9&currStreakLabel=8B8BF9" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKe000708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8BF9&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KaiKe000708&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=e6e6e6&text_color=c9c9c9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiKe000708&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKe000708&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9" height="165"/>
 
 </div>
 
@@ -62,7 +51,7 @@
 
 ### 📌 Repositórios em destaque
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8BF9&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
 
 <sub>✏️ conforme você criar mais repositórios, adicione mais linhas iguais a essa trocando o nome do repo</sub>
 
@@ -75,13 +64,13 @@
 ### 🔗 Conecte-se comigo
 
 <a href="https://x.com/KaiKeNoPs">
-  <img src="https://img.shields.io/badge/X_(Twitter)-14151a?style=for-the-badge&logo=x&logoColor=8B8BF9"/>
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=ffffff"/>
 </a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
-  <img src="https://img.shields.io/badge/LinkedIn-14151a?style=for-the-badge&logo=linkedin&logoColor=8B8BF9"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
 <a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-14151a?style=for-the-badge&logo=gmail&logoColor=8B8BF9"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
 
 <sub>✏️ troque o link do LinkedIn e o e-mail pelos seus</sub>
@@ -91,7 +80,7 @@
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=KaiKe000708&style=for-the-badge&color=8B8BF9&label=Visualizações+do+perfil"/>
+<img src="https://komarev.com/ghpvc/?username=KaiKe000708&style=for-the-badge&color=ffffff&label=Visualizações+do+perfil"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
