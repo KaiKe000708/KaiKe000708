@@ -35,9 +35,9 @@
 <!-- ✏️ ajuste essa lista pra refletir o que você realmente usa -->
 
 <p>
-<img src="https://flagcdn.com/w320/br.png" height="30" alt="Brasil"/>
-<img src="https://flagcdn.com/w320/us.png" height="30" alt="Estados Unidos"/>
-<img src="https://flagcdn.com/w320/es.png" height="30" alt="Espanha"/>
+<img src="https://flagcdn.com/w320/br.png" width="42" alt="Brasil"/>
+<img src="https://flagcdn.com/w320/us.png" width="42" alt="Estados Unidos"/>
+<img src="https://flagcdn.com/w320/es.png" width="42" alt="Espanha"/>
 </p>
 
 </div>
