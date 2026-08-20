@@ -25,19 +25,19 @@
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/🎯_Nmap-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💣_Metasploit-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/🗺️_GIS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GIS-000000?style=for-the-badge"/>
 </p>
 
 <!-- ✏️ ajuste essa lista pra refletir o que você realmente usa -->
 
 <p>
-<img src="https://img.shields.io/badge/🇧🇷_PT--BR-009c3b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🇺🇸_English-3c3b6e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🇪🇸_Español-aa151b?style=for-the-badge"/>
+<img src="https://flagcdn.com/w40/br.png" width="45" alt="Brasil"/>
+<img src="https://flagcdn.com/w40/us.png" width="45" alt="Estados Unidos"/>
+<img src="https://flagcdn.com/w40/es.png" width="45" alt="Espanha"/>
 </p>
 
 </div>
