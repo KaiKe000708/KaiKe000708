@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Kaike%20Garcia%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
-### Estudante de Sistemas de Informação | Apaixonado por Cibersegurança | Minas Gerais, Brasil
+### Estudante de Sistemas de Informação | Minas Gerais, Brasil
 
 <br>
 
