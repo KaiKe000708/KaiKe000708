@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Kaike%20Garcia%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/KaiKe000708">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=E6E6E6&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Cibersegurança;Sempre+aprendendo+algo+novo;Minas+Gerais+%7C+Brasil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg-beta.vercel.app/?font=Fira+Code&pause=1000&color=E6E6E6&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Cibersegurança;Sempre+aprendendo+algo+novo;Minas+Gerais+%7C+Brasil" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -44,9 +44,9 @@
 
 ### 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaiKe000708&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=e6e6e6&text_color=c9c9c9" height="165"/>
+<img src="https://github-readme-stats-eight-wine-95.vercel.app/api?username=KaiKe000708&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=e6e6e6&text_color=c9c9c9" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiKe000708&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKe000708&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9" height="165"/>
+<img src="https://github-readme-stats-eight-wine-95.vercel.app/api/top-langs/?username=KaiKe000708&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9" height="165"/>
 
 </div>
 
@@ -56,7 +56,7 @@
 
 ### 📌 Repositórios em destaque
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
+<img src="https://github-readme-stats-eight-wine-95.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
 
 <!-- ✏️ conforme você criar mais repositórios, adicione mais linhas iguais a essa trocando o nome do repo -->
 
