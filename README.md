@@ -1,11 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Kaike%20Garcia%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://github.com/KaiKe000708">
-  <img src="https://readme-typing-svg-beta.vercel.app/?font=Fira+Code&pause=1000&color=E6E6E6&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Cibersegurança;Sempre+aprendendo+algo+novo;Minas+Gerais+%7C+Brasil" alt="Typing SVG" />
-</a>
+### Estudante de Sistemas de Informação | Apaixonado por Cibersegurança | Minas Gerais, Brasil
 
-<br><br>
+<br>
 
 <img src="https://github.com/user-attachments/assets/b3dfa8f2-09ea-4f2f-85e4-d10cecda99a0" width="450"/>
 
@@ -28,13 +26,7 @@
 <img src="https://img.shields.io/badge/GIS-000000?style=for-the-badge"/>
 </p>
 
-<!-- ✏️ ajuste essa lista pra refletir o que você realmente usa -->
-
-<p>
-<img src="https://flagcdn.com/w320/br.png" width="42" alt="Brasil"/>
-<img src="https://flagcdn.com/w320/us.png" width="42" alt="Estados Unidos"/>
-<img src="https://flagcdn.com/w320/es.png" width="42" alt="Espanha"/>
-</p>
+<!-- ajuste essa lista pra refletir o que você realmente usa -->
 
 </div>
 
@@ -56,9 +48,12 @@
 
 ### 📌 Repositórios em destaque
 
-<img src="https://github-readme-stats-eight-wine-95.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
+<a href="https://kaike000708.github.io/prisoes-invisiveis-site/">
+  <img src="https://github-readme-stats-eight-wine-95.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
+</a>
 
-<!-- ✏️ conforme você criar mais repositórios, adicione mais linhas iguais a essa trocando o nome do repo -->
+<!-- ✏️ troque o link acima (href) pelo link real do site publicado, se eu não tiver acertado -->
+<!-- conforme você criar mais repositórios, adicione mais blocos <a>...</a> iguais a esse -->
 
 </div>
 
@@ -77,15 +72,22 @@
 <a href="mailto:kaike.garcia10@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
-<a href="https://discord.com/users/kaikenops">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff"/>
-</a>
 <a href="https://tryhackme.com/p/KaiKe000708">
   <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ffffff"/>
 </a>
 
-<!-- ✏️ confira se o link do TryHackMe e do Discord abrem corretamente -->
+<!-- ✏️ confira se o link do TryHackMe abre corretamente -->
 
 </div>
+
+<br>
+
+<div align="center">
+<img src="https://flagcdn.com/w320/br.png" width="24" alt="Brasil"/>
+<img src="https://flagcdn.com/w320/us.png" width="24" alt="Estados Unidos"/>
+<img src="https://flagcdn.com/w320/es.png" width="24" alt="Espanha"/>
+</div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
