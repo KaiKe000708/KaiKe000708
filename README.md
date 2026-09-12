@@ -5,8 +5,6 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/b3dfa8f2-09ea-4f2f-85e4-d10cecda99a0" width="450"/>
-
 </div>
 
 <br>
