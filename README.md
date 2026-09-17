@@ -35,7 +35,6 @@ Sou estudante de Sistemas de Informação, baseado em Minas Gerais, Brasil. Tenh
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" title="Bash" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kali/kali-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="PyTorch" title="PyTorch" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
@@ -56,14 +55,14 @@ Sou estudante de Sistemas de Informação, baseado em Minas Gerais, Brasil. Tenh
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-eight-wine-95.vercel.app/api?username=KaiKe000708&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=e6e6e6&text_color=c9c9c9&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=KaiKe000708&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=e6e6e6&text_color=c9c9c9&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
     align="left" 
     alt="Linguagens mais usadas" 
     height="200" 
-    src="https://github-readme-stats-eight-wine-95.vercel.app/api/top-langs/?username=KaiKe000708&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKe000708&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
@@ -75,7 +74,7 @@ Sou estudante de Sistemas de Informação, baseado em Minas Gerais, Brasil. Tenh
 ### 📌 Repositório em destaque
 
 <a href="https://kaike000708.github.io/prisoes-invisiveis-site/">
-  <img src="https://github-readme-stats-eight-wine-95.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
 </a>
 
 <!-- ✏️ troque o href acima pelo link real do site publicado, se eu não tiver acertado -->
@@ -94,12 +93,4 @@ Sou estudante de Sistemas de Informação, baseado em Minas Gerais, Brasil. Tenh
 <a href="mailto:kaike.garcia10@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
-</p>
-
-<br/>
-
-<p align="left">
-<img src="https://flagcdn.com/w320/br.png" width="24" alt="Brasil"/>
-<img src="https://flagcdn.com/w320/us.png" width="24" alt="Estados Unidos"/>
-<img src="https://flagcdn.com/w320/es.png" width="24" alt="Espanha"/>
 </p>
