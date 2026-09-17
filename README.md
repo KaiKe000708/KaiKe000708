@@ -1,69 +1,73 @@
-# 🚩 Kaike Garcia Oliveira
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Kaike%20Garcia%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
-**`Estudante de Sistemas de Informação`** · **`Desenvolvedor`**
+<a href="https://github.com/KaiKe000708">
+  <img src="https://readme-typing-svg-beta.vercel.app/?font=Fira+Code&pause=1000&color=E6E6E6&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Cibersegurança;Sempre+aprendendo+algo+novo;Minas+Gerais+%7C+Brasil" alt="Typing SVG" />
+</a>
 
-Sou estudante de Sistemas de Informação, situado em Minas Gerais, Brasil. Gosto de explorar diferentes áreas da tecnologia e de desenvolvimento web e scripts em Python a projetos de visão computacional. Também tenho interesse em Segurança da Informação, praticando em ambientes de pentest e estudando análise de redes.
+<br><br>
 
-<p align="left">
-    <a href="https://github.com/KaiKe000708?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/KaiKe000708?color=2b2b2b&style=for-the-badge&labelColor=000000&logo=star&label=estrelas&logoColor=ffffff"
-        />
-    </a>
-    <a href="https://github.com/KaiKe000708?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/KaiKe000708?color=2b2b2b&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://tryhackme.com/p/KaiKe000708">
-        <img 
-            alt="TryHackMe" 
-            title="Meu perfil no TryHackMe" 
-            src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ffffff"
-        />
-    </a>
+<img src="https://github.com/user-attachments/assets/b3dfa8f2-09ea-4f2f-85e4-d10cecda99a0" width="450"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🛠️ Stack & Ferramentas
+
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GIS-000000?style=for-the-badge"/>
 </p>
 
----
+<!-- ✏️ ajuste essa lista pra refletir o que você realmente usa -->
 
-### 🤖 Linguagens e Tecnologias
+<p>
+<img src="https://flagcdn.com/w320/br.png" width="42" alt="Brasil"/>
+<img src="https://flagcdn.com/w320/us.png" width="42" alt="Estados Unidos"/>
+<img src="https://flagcdn.com/w320/es.png" width="42" alt="Espanha"/>
+</p>
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="PyTorch" title="PyTorch" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="OpenCV" title="OpenCV" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
+</div>
 
-<br/>
-<br/>
+<br>
 
-<!-- ✏️ ajuste essa lista pra refletir as tecnologias que você realmente usa -->
+<div align="center">
 
----
+### 📊 Estatísticas
 
-### 📌 Repositório em destaque
+<img src="https://github-readme-stats-eight-wine-95.vercel.app/api?username=KaiKe000708&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=e6e6e6&text_color=c9c9c9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiKe000708&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
+<img src="https://github-readme-stats-eight-wine-95.vercel.app/api/top-langs/?username=KaiKe000708&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9" height="165"/>
 
-<a href="https://kaike000708.github.io/prisoes-invisiveis-site/">
-  <img alt="prisoes-invisiveis-site" title="Clique para abrir o site" src="https://img.shields.io/badge/prisoes--invisiveis--site-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a"/>
-</a>
-<img alt="linguagem principal" src="https://img.shields.io/github/languages/top/KaiKe000708/prisoes-invisiveis-site?style=for-the-badge&color=2b2b2b&labelColor=000000&logoColor=ffffff"/>
+</div>
 
-Projeto de site interativo desenvolvido como atividade curricular da faculdade, com foco nos impactos da pressão profissional sobre a saúde mental.
+<br>
 
-<!-- ✏️ troque o href acima pelo link real do site publicado, se eu não tiver acertado -->
-<!-- conforme você criar mais repositórios, adicione mais blocos iguais a esse -->
+<div align="center">
 
----
+### 📌 Repositórios em destaque
+
+<img src="https://github-readme-stats-eight-wine-95.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
+
+<!-- ✏️ conforme você criar mais repositórios, adicione mais linhas iguais a essa trocando o nome do repo -->
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🔗 Conecte-se comigo
 
-<p align="left">
 <a href="https://x.com/KaiKeNoPs">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=ffffff"/>
 </a>
@@ -73,4 +77,15 @@ Projeto de site interativo desenvolvido como atividade curricular da faculdade, 
 <a href="mailto:kaike.garcia10@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
-</p>
+<a href="https://discord.com/users/kaikenops">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff"/>
+</a>
+<a href="https://tryhackme.com/p/KaiKe000708">
+  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ffffff"/>
+</a>
+
+<!-- ✏️ confira se o link do TryHackMe e do Discord abrem corretamente -->
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
