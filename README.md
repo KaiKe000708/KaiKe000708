@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Kaike%20Garcia%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
-### Estudante de Sistemas de Informação | Apaixonado por Cibersegurança | Minas Gerais, Brasil
-
 </div>
 
 <br>
@@ -26,23 +24,9 @@
 
 <br>
 
-<div align="center">
-
-### 📊 Estatísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=KaiKe000708&show_icons=true&hide=stars,prs,issues&hide_rank=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=e6e6e6&text_color=c9c9c9" height="140"/>
-
-<sub>Total de contribuições (commits) no GitHub</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### 📌 Repositório em destaque
 
-<a href="https://kaike000708.github.io/prisoes-invisiveis-site/">
+<a href="https://kaike000708.github.io/Prisoes-Invisiveis-Site/">
   <img alt="prisoes-invisiveis-site" src="https://img.shields.io/badge/prisoes--invisiveis--site-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a"/>
 </a>
 <img alt="linguagem principal" src="https://img.shields.io/github/languages/top/KaiKe000708/prisoes-invisiveis-site?style=for-the-badge&color=2b2b2b&labelColor=000000&logoColor=ffffff"/>
