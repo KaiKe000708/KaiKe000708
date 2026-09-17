@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação`** · **`Security Enthusiast`**
 
-Sou estudante de Sistemas de Informação, situado em Minas Gerais, Brasil. Tenho interesse principal em Segurança da Informação e estou sempre explorando novas áreas da tecnologia e de scripts em Python a testes em ambientes de pentest ou análises de redes.
+Sou estudante de Sistemas de Informação, baseado em Minas Gerais, Brasil. Tenho interesse principal em Segurança da Informação e estou sempre explorando novas áreas da tecnologia — de scripts em Python a testes em ambientes de pentest.
 
 <p align="left">
     <a href="https://github.com/KaiKe000708?tab=repositories&sort=stargazers">
