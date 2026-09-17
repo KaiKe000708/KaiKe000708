@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação`** · **`Desenvolvedor`**
 
-Sou estudante de Sistemas de Informação, baseado em Minas Gerais, Brasil. Gosto de explorar diferentes áreas da tecnologia — de desenvolvimento web e scripts em Python a projetos de visão computacional. Também tenho interesse em Segurança da Informação, praticando em ambientes de pentest e estudando análise de redes.
+Sou estudante de Sistemas de Informação, situado em Minas Gerais, Brasil. Gosto de explorar diferentes áreas da tecnologia e de desenvolvimento web e scripts em Python a projetos de visão computacional. Também tenho interesse em Segurança da Informação, praticando em ambientes de pentest e estudando análise de redes.
 
 <p align="left">
     <a href="https://github.com/KaiKe000708?tab=repositories&sort=stargazers">
