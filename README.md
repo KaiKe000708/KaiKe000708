@@ -1,8 +1,8 @@
 # 🚩 Kaike Garcia Oliveira
 
-**`Estudante de Sistemas de Informação`** · **`Security Enthusiast`**
+**`Estudante de Sistemas de Informação`** · **`Desenvolvedor`**
 
-Sou estudante de Sistemas de Informação, baseado em Minas Gerais, Brasil. Tenho interesse principal em Segurança da Informação e estou sempre explorando novas áreas da tecnologia — de scripts em Python a testes em ambientes de pentest.
+Sou estudante de Sistemas de Informação, baseado em Minas Gerais, Brasil. Gosto de explorar diferentes áreas da tecnologia — de desenvolvimento web e scripts em Python a projetos de visão computacional. Também tenho interesse em Segurança da Informação, praticando em ambientes de pentest e estudando análise de redes.
 
 <p align="left">
     <a href="https://github.com/KaiKe000708?tab=repositories&sort=stargazers">
@@ -47,37 +47,17 @@ Sou estudante de Sistemas de Informação, baseado em Minas Gerais, Brasil. Tenh
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KaiKe000708&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=e6e6e6&text_color=c9c9c9&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKe000708&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/>
-<br/>
-
----
-
 ### 📌 Repositório em destaque
 
 <a href="https://kaike000708.github.io/prisoes-invisiveis-site/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiKe000708&repo=prisoes-invisiveis-site&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
+  <img alt="prisoes-invisiveis-site" title="Clique para abrir o site" src="https://img.shields.io/badge/prisoes--invisiveis--site-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a"/>
 </a>
+<img alt="linguagem principal" src="https://img.shields.io/github/languages/top/KaiKe000708/prisoes-invisiveis-site?style=for-the-badge&color=2b2b2b&labelColor=000000&logoColor=ffffff"/>
+
+Projeto de site interativo desenvolvido como atividade curricular da faculdade, com foco nos impactos da pressão profissional sobre a saúde mental.
 
 <!-- ✏️ troque o href acima pelo link real do site publicado, se eu não tiver acertado -->
+<!-- conforme você criar mais repositórios, adicione mais blocos iguais a esse -->
 
 ---
 
