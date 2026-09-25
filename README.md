@@ -55,9 +55,6 @@
 <a href="mailto:kaike.garcia10@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
-<a href="https://tryhackme.com/p/KaiKe000708">
-  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ffffff"/>
-</a>
 
 </div>
 
