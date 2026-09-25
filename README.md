@@ -46,9 +46,6 @@
 
 ### 🔗 Conecte-se comigo
 
-<a href="https://x.com/KaiKeNoPs">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=ffffff"/>
-</a>
 <a href="https://www.linkedin.com/in/kaike-garciao/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
